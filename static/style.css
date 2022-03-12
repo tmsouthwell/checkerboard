@@ -1,0 +1,23 @@
+* {
+    margin:  20px auto;
+    padding: 0px;
+
+}
+
+
+
+    table tr td{
+        
+        height: 50px;
+        width: 50px;
+        
+        
+
+    }
+    .color1 {
+        background-color: rgb(236, 155, 146);
+        
+    }
+    .color2 {
+        background-color:bisque;
+    }
